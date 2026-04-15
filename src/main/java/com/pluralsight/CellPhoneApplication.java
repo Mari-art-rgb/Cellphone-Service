@@ -35,6 +35,9 @@ public class CellPhoneApplication {
         phoneNumber = "";
         owner = "";
 
+        String dial = "";
+        System.out.println(dial);
+
 
 
 
